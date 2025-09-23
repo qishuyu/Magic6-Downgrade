@@ -1,0 +1,2 @@
+Magic6标准版
+Magic6Pro
