@@ -1,8 +1,8 @@
-Important Disclaimer
+⚠️Important Disclaimer
 
 Warning: Flashing your device with unofficial firmware, including transition packages, carries significant risks. You are solely responsible for any issues that may occur, including but not limited to bricking, boot failure, system damage, or hardware malfunction. These resources are for educational and research purposes only!
 
-How to Find Official Resources
+💡How to Find Official Resources
 
 Since I cannot provide direct download links, here's how to locate the correct transition packages for your Magic 6 series:
 
