@@ -30,5 +30,3 @@ While the specific steps for the Magic 6 series may vary, the general process ty
 Recommendation
 
 I strongly recommend checking the official Honor support channels for the most accurate and safe instructions tailored to your specific Magic 6 model. Using incorrect files or procedures can permanently damage your device.
-
-If you need help with a specific aspect of the process or have more details about what you're trying to accomplish (downgrading to a particular version, for example), I may be able to provide more targeted guidance.
